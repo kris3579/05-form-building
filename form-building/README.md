@@ -20,6 +20,7 @@ Create a form for user's to input their own blog post for our page, and have a p
 - Handlebars.js
 
 ## Change Log
+2018-8-19 10:32pm: Everything complete except a small bug involving the placement of the text under the json snippet, I wasas pretty sure I had made a commit after what we had gained from John in the workshop, but I guess I forgot.
 
 ## Credits and Collaborations
 Credit to John for doing the workshop on this project during lecture on 8/17/18.
